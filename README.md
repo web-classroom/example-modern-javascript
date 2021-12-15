@@ -4,3 +4,4 @@ This repo contains demo projects from [Modern Javascript course](https://tweb-cl
 
 - [babel](./babel/README.md)
 - [webpack](./webpack/README.md)
+- [webpack-vue](./webpack-vue/README.md)
